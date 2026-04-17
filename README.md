@@ -2,6 +2,11 @@
 
 ¡Bienvenido a **Vélez Penales Mobile**! Un juego de simulación de penales desarrollado en Python utilizando la librería **Pygame**. Este proyecto fue creado con un cariño especial para mi hijo Fabriccio, fanático del Fortín.
 
+<p align="center">
+  <a href="https://github.com/DamianCicare/JuegoPenalesVelez/releases/download/v1.0/PenalesVelez_v1.zip">
+    <img src="https://img.shields.io/badge/DESCARGAR-JUEGO_PARA_PC-003399?style=for-the-badge&logo=windows&logoColor=white" alt="Descargar Juego" height="50">
+  </a>
+</p>
 <div align="center">
   <img src="Escudo_de_Vélez.jpg" alt="Escudo Vélez Sarsfield" width="150">
 </div>
@@ -52,6 +57,17 @@ juego.py: El núcleo del juego (lógica, renderizado y eventos).
 juego.spec: Archivo de configuración para empaquetar el juego (PyInstaller).
 
 /assets: Archivos de sonido (gol.wav, hinchada.wav, silbato.wav) y el escudo oficial.
+
+
+<p align="center">
+  <a href="https://github.com/DamianCicare/JuegoPenalesVelez/releases/download/v1.0/PenalesVelez_v1.zip">
+    <img src="https://img.shields.io/badge/DESCARGAR-JUEGO_PARA_PC-003399?style=for-the-badge&logo=windows&logoColor=white" alt="Descargar Juego" height="50">
+  </a>
+</p>
+<div align="center">
+  <img src="Escudo_de_Vélez.jpg" alt="Escudo Vélez Sarsfield" width="150">
+</div>
+
 
 👨‍💻 Desarrollador
 Proyecto desarrollado por Damian Cicare.
